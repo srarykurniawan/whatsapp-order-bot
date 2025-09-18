@@ -1,7 +1,5 @@
 # 📱 WhatsApp Order Bot
 
-![Logo](assets/images/Dashboard Pesanan Whatsapp.png)
-
 Bot otomatis untuk membantu mengelola pemesanan melalui WhatsApp.  
 Dengan bot ini, bisnis dapat menerima, mencatat, dan merespons order pelanggan secara cepat dan efisien.
 
