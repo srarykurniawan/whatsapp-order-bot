@@ -1,0 +1,5 @@
+streamlit==1.49.1
+python-dateutil
+pandas
+twilio
+openai

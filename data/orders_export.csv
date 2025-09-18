@@ -1,0 +1,5 @@
+ID,Nama Pelanggan,WhatsApp,Alamat,Items,Total,Status,Tanggal
+3,Ahmad Wijaya,+628112233445,Jl. Gatot Subroto No. 67,"3 Mie Goreng, 1 Es Teh",65000.0,confirmed,2024-01-15 12:00:00
+2,Siti Rahayu,+628987654321,Jl. Sudirman No. 45,"1 Ayam Bakar, 2 Es Jeruk",47000.0,processing,2024-01-15 11:15:00
+1,Budi Santoso,+628123456789,Jl. Merdeka No. 123,"2 Nasi Goreng, 1 Es Teh",55000.0,completed,2024-01-15 10:30:00
+4,Dewi Lestari,+628556677889,Jl. Thamrin No. 89,"1 Nasi Goreng, 1 Ayam Bakar",60000.0,pending,2024-01-15 09:45:00
