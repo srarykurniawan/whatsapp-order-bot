@@ -1,6 +1,6 @@
-# Whatsapp Order Bot
+#  Agentic AI Chatbot untuk Otomatisasi Pesanan WhatsApp
 
-Bot sederhana untuk mengelola pesanan otomatis melalui WhatsApp.
+Bot sederhana untuk mengelola pesanan melalui WhatsApp.
 
 ## 🚀 Fitur
 - Menerima pesan order otomatis
